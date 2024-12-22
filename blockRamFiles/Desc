@@ -1,0 +1,2 @@
+This folder contains 3 .coe files. These files are the files that are instantiated into Vivado's block ram IP. test1, test2, and test3 contain the machine code (in hex) corresponding
+to the assembly code in the assemblyCode folder. Note that the block Ram used for the instruction memory for this project is a read only (ROM) that has 256 addresses and a width of 8th bits
