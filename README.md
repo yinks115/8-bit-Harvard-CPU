@@ -1,1 +1,2 @@
 This repo contains the system verilog code and test bench waveform for an 8-bit Harvard Architecture cpu that I implmented on a Nexys-A7 FPGA using Xilinx Vivado. The repo also contains the state machine, opcodes, and block diagram for the cpu
+The system has an instruction memory which i've loaded with custom Assembly code. The assembly code and its output was manually calculated on a spread sheet. These spreadsheets can be found in the AssemblyCodes folder
